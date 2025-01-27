@@ -9,6 +9,6 @@ My Personal Webpage
 
 ## 研究領域(Research)
 
-- [空間資訊(GIS)](/guides/content/editing-an-existing-page) 
+- [空間資訊(GIS)](./gis/GIS-main.md) 
 - AI
 - Oceanography
