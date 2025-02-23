@@ -9,7 +9,7 @@
 ## 研究領域(Research)
 
 - [空間資訊(GIS)](./gis/GIS-main.md) 
-- AI
+- [人工智慧相關研究(AI)](.AI/AI-main.md)
 - Oceanography
 
 ## 個人資訊
